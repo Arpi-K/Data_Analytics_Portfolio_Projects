@@ -33,8 +33,6 @@ This repository contains my original end-to-end data analytics projects develope
 | Project | Description | Status |
 |---------|-------------|--------|
 | 📊 Superstore Sales Analysis | Analyzed retail sales data to identify business insights, customer trends, product performance, and profitability using Python, SQL, and Power BI. | ✅ Completed |
-| 🏥 Healthcare Analytics | Coming Soon | 🚧 |
-| 💰 Financial Analytics | Coming Soon | 🚧 |
 
 ---
 
